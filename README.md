@@ -17,7 +17,8 @@ Ecommerce Solutions — Powerful online stores that sell 24/7
 Game Development — Immersive and interactive gaming experiences
 Live Demo
 Visit the live website:
-https://360-services-provider.github.io/360elitedesign-premium/
+https://360-services-provider.github.io/360elitedesign-blue-theme
+
 
 Tech Stack
 HTML5
